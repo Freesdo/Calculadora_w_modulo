@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Debug\\Modulin.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Frederico\\Documents\\projetos\\c++\\hello_modulo\\hello_modulo\\Debug\\vc143.pdb",
+                "Debug\\",
+                "C:\\Users\\Frederico\\Documents\\projetos\\c++\\hello_modulo\\hello_modulo\\Debug\\Modulin.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Modulin",
+                    "source-path": "c:\\users\\frederico\\documents\\projetos\\c++\\hello_modulo\\hello_modulo\\modulin.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\frederico\\documents\\projetos\\c++\\hello_modulo\\hello_modulo\\modulin.ixx",
+        "ProvidedModule": "Modulin",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

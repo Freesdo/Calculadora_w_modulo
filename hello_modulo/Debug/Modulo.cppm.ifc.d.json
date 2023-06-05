@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\frederico\\documents\\projetos\\c++\\hello_modulo\\hello_modulo\\modulo.cppm",
+        "ProvidedModule": "Modulo",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\cmath",
+                "BMI": "C:\\Users\\Frederico\\Documents\\projetos\\c++\\hello_modulo\\hello_modulo\\Debug\\cmath_21TUDGPY3KBA7426.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\iostream",
+                "BMI": "C:\\Users\\Frederico\\Documents\\projetos\\c++\\hello_modulo\\hello_modulo\\Debug\\iostream_BRCOWWCJDGX0917G.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\vector",
+                "BMI": "C:\\Users\\Frederico\\Documents\\projetos\\c++\\hello_modulo\\hello_modulo\\Debug\\vector_29FZ3CAW6O70K6KJ.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\string",
+                "BMI": "C:\\Users\\Frederico\\Documents\\projetos\\c++\\hello_modulo\\hello_modulo\\Debug\\string_EP2912U0Y5DNK4HD.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\map",
+                "BMI": "C:\\Users\\Frederico\\Documents\\projetos\\c++\\hello_modulo\\hello_modulo\\Debug\\map_WPXV8CLRMB5LK1Y8.ifc"
+            }
+        ]
+    }
+}

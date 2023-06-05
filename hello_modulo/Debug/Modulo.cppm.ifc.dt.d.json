@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\frederico\\documents\\projetos\\c++\\hello_modulo\\hello_modulo\\modulo.cppm",
+        "ProvidedModule": "Modulo",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
