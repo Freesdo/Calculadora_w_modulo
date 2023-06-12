@@ -1,8 +1,0 @@
-﻿  Verificando fontes para dependências de módulo...
-  Origem.cpp
-  Gerando código
-  1 of 646 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Finalizada a geração de código
-  hello_modulo.vcxproj -> C:\Users\Frederico\Documents\projetos\c++\hello_modulo\Release\hello_modulo.exe
